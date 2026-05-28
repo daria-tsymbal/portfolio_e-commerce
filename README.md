@@ -17,7 +17,7 @@ The business operates across two types of channels — local marketplaces (multi
 
 ## Tech Stack
 
-- **Python** — data extraction, web scraping, email parsing, data loading
+- **Python** — data extraction, email parsing, data loading
 - **PostgreSQL** — database design, data cleaning, transformation, analytical queries
 - **Power BI** — dashboard and visualization layer
 
@@ -45,8 +45,8 @@ The database is split into three schemas:
 ---
 
 ## Dashboard Structure
-<img width="2075" height="1200" alt="dashboard_page-0001" src="https://github.com/user-attachments/assets/fde35531-3170-4af2-a40a-85f3f83e7b6f" />
-<img width="2075" height="1200" alt="dashboard_page-0002" src="https://github.com/user-attachments/assets/9f120086-9786-4047-904c-003e7263dcfe" />
+<img width="2075" height="1200" alt="dashboard_page-0001" src="https://github.com/user-attachments/assets/50fff420-10c3-434b-98f2-ebb733164396" />
+<img width="2075" height="1200" alt="dashboard_page-0002" src="https://github.com/user-attachments/assets/0fb2db73-4cfa-4eb3-ae4e-e66261db83d5" />
 
 ### Page 1 — Business Overview
 
